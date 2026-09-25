@@ -2,7 +2,7 @@
 
 Analog sensörlerden (ivmeölçer, sıcaklık sensörleri) toplanan gürültülü verilerin yazılımsal olarak nasıl filtrelendiğini simüle eden ve analiz eden interaktif web paneli.
 
-🔗 **Canlı Demo:** [sernur-sensor-paneli.streamlit.app](https://sernur-sensor-paneli.streamlit.app)
+🔗 **Canlı Demo:** [https://sernur-sensor-sinyal-paneli.streamlit.app/](https://sernur-sensor-sinyal-paneli.streamlit.app/)
 
 ---
 
