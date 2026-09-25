@@ -29,14 +29,5 @@ Fiziksel sensör ölçümlerinde sıklıkla karşılaşılan yüksek frekanslı 
 * **Görselleştirme:** Plotly Graph Objects
 * **Versiyon Kontrol:** Git & GitHub
 
----
 
-## 💻 Yerel Kurulum ve Çalıştırma
-
-1. Depoyu klonlayın:
-   ```bash
-   git clone [https://github.com/sernur28/sens-r-sinyal-paneli.git](https://github.com/sernur28/sens-r-sinyal-paneli.git)
-   cd sens-r-sinyal-paneli
-   pip install -r requirements.txt
-   streamlit run app.py
    
